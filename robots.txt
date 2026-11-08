@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jump99500.github.io/collectlog-deals/sitemap.xml
