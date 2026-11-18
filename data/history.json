@@ -3059,6 +3059,36 @@
 "title": "우마무스메 프리티 더비 열혈 우당탕탕 대감사제! SPECIAL EDITION",
 "url": "https://store.nintendo.co.kr/70070000023305"
 },
+"ps-ep0001-cusa02376_00-ac4acunacsynemea": {
+"base": 106000,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1404/686ba0c69fd95986121fa96ff3e42e3cfabc62435ddd3301.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 26500
+}
+],
+"store": "PS스토어",
+"title": "어쌔신 크리드 트리플 팩",
+"url": "https://store.playstation.com/ko-kr/product/EP0001-CUSA02376_00-AC4ACUNACSYNEMEA"
+},
+"ps-ep0001-cusa02376_00-asia000000000010": {
+"base": 55000,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2909/de932adf5080c71de553528cdc5430becd2286128749eb3e.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 70,
+"price": 16500
+}
+],
+"store": "PS스토어",
+"title": "어쌔신 크리드 신디케이트 - 골드 에디션",
+"url": "https://store.playstation.com/ko-kr/product/EP0001-CUSA02376_00-ASIA000000000010"
+},
 "ps-ep0001-cusa02376_00-asia000000000013": {
 "base": 42000,
 "img": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0914/byXwCO5tHs7mmNUBDzb2pq77.png",
@@ -3076,6 +3106,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 75,
+"price": 10500
+},
+{
+"date": "2026-11-18",
 "pct": 75,
 "price": 10500
 }
@@ -3103,11 +3138,76 @@
 "date": "2026-11-14",
 "pct": 80,
 "price": 11800
+},
+{
+"date": "2026-11-18",
+"pct": 80,
+"price": 11800
 }
 ],
 "store": "PS스토어",
 "title": "Tom Clancy's Ghost Recon Wildlands",
 "url": "https://store.playstation.com/ko-kr/product/EP0001-CUSA02819_00-ASIA000000000001"
+},
+"ps-ep0001-cusa03309_00-asia000000000005": {
+"base": 68000,
+"img": "https://image.api.playstation.com/cdn/EP0001/CUSA03309_00/jLWUJThklY2pxpInWtOJULEwl94Kw4R45P28Gf8mQYbldVXJGfdbCtR2rvSbsskz.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 17000
+}
+],
+"store": "PS스토어",
+"title": "Far Cry Primal - Digital Apex Edition",
+"url": "https://store.playstation.com/ko-kr/product/EP0001-CUSA03309_00-ASIA000000000005"
+},
+"ps-ep0001-cusa04294_00-asiaplaceholder1": {
+"base": 90000,
+"img": "https://image.api.playstation.com/cdn/EP0001/CUSA04294_00/2hNMzvNYlxOAnUZQspAH2NIHQFJXPJhdM8bs5OfolzCCwdkKS4xuIevmLYVnkO4Z.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 85,
+"price": 13500
+}
+],
+"store": "PS스토어",
+"title": "Watch Dogs 2 - Digital Gold Edition",
+"url": "https://store.playstation.com/ko-kr/product/EP0001-CUSA04294_00-ASIAPLACEHOLDER1"
+},
+"ps-ep0001-cusa04294_00-asiast0000000000": {
+"base": 62000,
+"img": "https://image.api.playstation.com/cdn/EP0001/CUSA04294_00/G80s5X9ENa4rhKZZpxbimHLpy597pqypSRuKDvWBcf9Zm3zMAQXBnY18vTt8FnEn.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 85,
+"price": 9300
+}
+],
+"store": "PS스토어",
+"title": "Watch Dogs 2 - Digital Standard Edition",
+"url": "https://store.playstation.com/ko-kr/product/EP0001-CUSA04294_00-ASIAST0000000000"
+},
+"ps-ep0001-cusa04323_00-asiahparktfbw000": {
+"base": 35000,
+"img": "https://image.api.playstation.com/cdn/EP0001/CUSA04323_00/wtBYIQw40VfvSVfNGoyiVJf6TLuMjTkkuFlnJG7tYH6gpWdypi0GadW9cpapgr4g.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 70,
+"price": 10500
+}
+],
+"store": "PS스토어",
+"title": "South Park™: The Fractured but Whole™ - Digital Standard Edition",
+"url": "https://store.playstation.com/ko-kr/product/EP0001-CUSA04323_00-ASIAHPARKTFBW000"
 },
 "ps-ep0001-cusa04893_00-asia000000000000": {
 "base": 55000,
@@ -3128,11 +3228,46 @@
 "date": "2026-11-14",
 "pct": 70,
 "price": 16500
+},
+{
+"date": "2026-11-18",
+"pct": 70,
+"price": 16500
 }
 ],
 "store": "PS스토어",
 "title": "Assassin's Creed The Ezio Collection",
 "url": "https://store.playstation.com/ko-kr/product/EP0001-CUSA04893_00-ASIA000000000000"
+},
+"ps-ep0001-cusa05625_00-asiaacempire0000": {
+"base": 66000,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1208/LJK4fXHZ4OWraII8xVb4QzHP.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 85,
+"price": 9900
+}
+],
+"store": "PS스토어",
+"title": "Assassin's Creed Origins - Digital Standard Edition",
+"url": "https://store.playstation.com/ko-kr/product/EP0001-CUSA05625_00-ASIAACEMPIRE0000"
+},
+"ps-ep0001-cusa05625_00-asiaplaceholder1": {
+"base": 99000,
+"img": "https://image.api.playstation.com/cdn/EP0001/CUSA05625_00/6msovqu7vIVA6KHpsnUQnWJILjqLCBuznMSSiHRnhRdIpCcu2u3cLsEkSttfzslW.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 85,
+"price": 14850
+}
+],
+"store": "PS스토어",
+"title": "Assassin's Creed Origins - Digital Gold Edition",
+"url": "https://store.playstation.com/ko-kr/product/EP0001-CUSA05625_00-ASIAPLACEHOLDER1"
 },
 "ps-ep0001-cusa05847_00-asiafarcry5game0": {
 "base": 66000,
@@ -3151,6 +3286,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 85,
+"price": 9900
+},
+{
+"date": "2026-11-18",
 "pct": 85,
 "price": 9900
 }
@@ -3178,11 +3318,31 @@
 "date": "2026-11-14",
 "pct": 80,
 "price": 21600
+},
+{
+"date": "2026-11-18",
+"pct": 80,
+"price": 21600
 }
 ],
 "store": "PS스토어",
 "title": "어쌔신 크리드 앤티크 팩",
 "url": "https://store.playstation.com/ko-kr/product/EP0001-CUSA09303_00-ACODYSSEYORIGINS"
+},
+"ps-ep0001-cusa09303_00-asiaplaceholder0": {
+"base": 66000,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1208/cPLVeSodT9aWuBkmeqyvfXY7.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 80,
+"price": 13200
+}
+],
+"store": "PS스토어",
+"title": "Assassin's Creed Odyssey - 디지털 스탠다드 에디션",
+"url": "https://store.playstation.com/ko-kr/product/EP0001-CUSA09303_00-ASIAPLACEHOLDER0"
 },
 "ps-ep0001-cusa09303_00-asiaplaceholder1": {
 "base": 76000,
@@ -3201,6 +3361,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 80,
+"price": 15200
+},
+{
+"date": "2026-11-18",
 "pct": 80,
 "price": 15200
 }
@@ -3228,6 +3393,11 @@
 "date": "2026-11-14",
 "pct": 80,
 "price": 19800
+},
+{
+"date": "2026-11-18",
+"pct": 80,
+"price": 19800
 }
 ],
 "store": "PS스토어",
@@ -3253,11 +3423,78 @@
 "date": "2026-11-14",
 "pct": 70,
 "price": 10500
+},
+{
+"date": "2026-11-18",
+"pct": 70,
+"price": 10500
 }
 ],
 "store": "PS스토어",
 "title": "Assassin's Creed Rogue Remastered - Digital Standard Edition",
 "url": "https://store.playstation.com/ko-kr/product/EP0001-CUSA10123_00-ASIAACRGAMEPS400"
+},
+"ps-ep0001-cusa10326_00-asia000000000000": {
+"base": 35000,
+"img": "https://image.api.playstation.com/cdn/EP0001/CUSA10326_00/kpHTvZehcg8WCKPszDsU2ODUA1IIysdLZcHAYa32cV2pLNHTbFoVwN1PY9REEu8r.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 8750
+}
+],
+"store": "PS스토어",
+"title": "Far Cry®3 클래식 에디션 - 디지털 스탠다드 에디션",
+"url": "https://store.playstation.com/ko-kr/product/EP0001-CUSA10326_00-ASIA000000000000"
+},
+"ps-ep0006-cusa19515_00-metr000000000000": {
+"base": 72000,
+"genre": "SF 액션 RPG",
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2517/xK2b8gY5A5oyYlc1pnUUVEm5.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 85,
+"price": 10800
+}
+],
+"review": "3부작 한 번에 하기 좋다는 평, 1편 조작은 옛날 느낌이라는 평",
+"store": "PS스토어",
+"title": "Mass Effect™ Legendary Edition",
+"url": "https://store.playstation.com/ko-kr/product/EP0006-CUSA19515_00-METR000000000000"
+},
+"ps-ep0101-cusa13590_00-asia000000000000": {
+"base": 24700,
+"img": "https://image.api.playstation.com/cdn/EP0101/CUSA13590_00/wFYGLvCmITJORl63yQvI8BBaGNtgiV67S3PsMlw8mdGB8YdRuEUnT1XJh7BsRsyV.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 70,
+"price": 7410
+}
+],
+"store": "PS스토어",
+"title": "Castlevania Requiem:Symphony of the Night ＆ Rondo of Blood",
+"url": "https://store.playstation.com/ko-kr/product/EP0101-CUSA13590_00-ASIA000000000000"
+},
+"ps-ep0114-cusa05179_00-ultied0000000000": {
+"base": 79800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1912/Ja4yD4kA97RoOtjCblWbhx9H.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 19950
+}
+],
+"store": "PS스토어",
+"title": "Killing Floor 2 - Ultimate Edition",
+"url": "https://store.playstation.com/ko-kr/product/EP0114-CUSA05179_00-ULTIED0000000000"
 },
 "ps-ep0700-cusa06291_00-asianarutounst00": {
 "base": 45800,
@@ -3278,11 +3515,31 @@
 "date": "2026-11-14",
 "pct": 65,
 "price": 16030
+},
+{
+"date": "2026-11-18",
+"pct": 65,
+"price": 16030
 }
 ],
 "store": "PS스토어",
 "title": "NARUTO SHIPPUDEN: Ultimate Ninja STORM TRILOGY",
 "url": "https://store.playstation.com/ko-kr/product/EP0700-CUSA06291_00-ASIANARUTOUNST00"
+},
+"ps-ep1018-ppsa22946_00-harrypotter17000": {
+"base": 58100,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2817/3ed20bb3b43ca71d45872ed6a5c2c3ca52ff9123814cafd1.png",
+"platform": "PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 85,
+"price": 8715
+}
+],
+"store": "PS스토어",
+"title": "LEGO® Harry Potter™ Collection",
+"url": "https://store.playstation.com/ko-kr/product/EP1018-PPSA22946_00-HARRYPOTTER17000"
 },
 "ps-ep2145-ppsa03333_00-9677515631057326": {
 "base": 27800,
@@ -3303,11 +3560,31 @@
 "date": "2026-11-14",
 "pct": 70,
 "price": 8340
+},
+{
+"date": "2026-11-18",
+"pct": 70,
+"price": 8340
 }
 ],
 "store": "PS스토어",
 "title": "Nobody Saves the World",
 "url": "https://store.playstation.com/ko-kr/product/EP2145-PPSA03333_00-9677515631057326"
+},
+"ps-ep2377-ppsa03286_00-7656201194715564": {
+"base": 77800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202107/2717/JZu4c6iUvTI7rNYcOQWD8pvz.png",
+"platform": "PS4/PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 80,
+"price": 15560
+}
+],
+"store": "PS스토어",
+"title": "쥬라기 월드 에볼루션 2: 디럭스 에디션",
+"url": "https://store.playstation.com/ko-kr/product/EP2377-PPSA03286_00-7656201194715564"
 },
 "ps-ep3617-ppsa05592_00-road96gen9game00": {
 "base": 22800,
@@ -3326,6 +3603,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 50,
+"price": 11400
+},
+{
+"date": "2026-11-18",
 "pct": 50,
 "price": 11400
 }
@@ -3353,6 +3635,11 @@
 "date": "2026-11-14",
 "pct": 50,
 "price": 19000
+},
+{
+"date": "2026-11-18",
+"pct": 50,
+"price": 19000
 }
 ],
 "store": "PS스토어",
@@ -3378,6 +3665,11 @@
 "date": "2026-11-14",
 "pct": 50,
 "price": 14900
+},
+{
+"date": "2026-11-18",
+"pct": 50,
+"price": 14900
 }
 ],
 "store": "PS스토어",
@@ -3401,6 +3693,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 65,
+"price": 8820
+},
+{
+"date": "2026-11-18",
 "pct": 65,
 "price": 8820
 }
@@ -3429,6 +3726,11 @@
 "date": "2026-11-14",
 "pct": 85,
 "price": 7470
+},
+{
+"date": "2026-11-18",
+"pct": 85,
+"price": 7470
 }
 ],
 "review": "염동력 전투·분위기 호평, 길 찾기 헷갈린다는 평",
@@ -3453,6 +3755,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 90,
+"price": 2930
+},
+{
+"date": "2026-11-18",
 "pct": 90,
 "price": 2930
 }
@@ -3480,11 +3787,31 @@
 "date": "2026-11-14",
 "pct": 80,
 "price": 5560
+},
+{
+"date": "2026-11-18",
+"pct": 80,
+"price": 5560
 }
 ],
 "store": "PS스토어",
 "title": "Nobody Wants to Die",
 "url": "https://store.playstation.com/ko-kr/product/EP4062-PPSA19155_00-NOBODYWTD000SIEE"
+},
+"ps-ep4062-ppsa21704_00-kcdsagagamebsiee": {
+"base": 109800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2312/df6288df60198041f45b00b1900a2e892f84a0d0b526634b.png",
+"platform": "PS4/PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 70,
+"price": 32940
+}
+],
+"store": "PS스토어",
+"title": "Kingdom Come: Deliverance - Saga Bundle",
+"url": "https://store.playstation.com/ko-kr/product/EP4062-PPSA21704_00-KCDSAGAGAMEBSIEE"
 },
 "ps-ep4062-ppsa23799_00-timesplittersone": {
 "base": 10800,
@@ -3503,6 +3830,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 75,
+"price": 2700
+},
+{
+"date": "2026-11-18",
 "pct": 75,
 "price": 2700
 }
@@ -3530,6 +3862,11 @@
 "date": "2026-11-14",
 "pct": 75,
 "price": 2700
+},
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 2700
 }
 ],
 "store": "PS스토어",
@@ -3555,11 +3892,61 @@
 "date": "2026-11-14",
 "pct": 75,
 "price": 2700
+},
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 2700
 }
 ],
 "store": "PS스토어",
 "title": "TimeSplitters: Future Perfect",
 "url": "https://store.playstation.com/ko-kr/product/EP4062-PPSA23847_00-TIMESPLITTERS3FP"
+},
+"ps-ep4064-ppsa09076_00-dredgecompx00000": {
+"base": 40900,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202407/2510/25d1f6efa6e4175f841601d03927c6676800647db6e8064a.png",
+"platform": "PS4/PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 60,
+"price": 16360
+}
+],
+"store": "PS스토어",
+"title": "DREDGE: Complete Edition",
+"url": "https://store.playstation.com/ko-kr/product/EP4064-PPSA09076_00-DREDGECOMPX00000"
+},
+"ps-ep4133-ppsa04451_00-spacemarinesii00": {
+"base": 79800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0711/MKweDX2LQpXiPcU6Jitg9KAg.png",
+"platform": "PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 19950
+}
+],
+"store": "PS스토어",
+"title": "Warhammer 40,000: Space Marine 2",
+"url": "https://store.playstation.com/ko-kr/product/EP4133-PPSA04451_00-SPACEMARINESII00"
+},
+"ps-ep4133-ppsa34751_00-mudrunner0000000": {
+"base": 34800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1116/5d430478c0e36f653c801b6ab5fa97f6039ad85393926cf5.png",
+"platform": "PS4/PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 50,
+"price": 17400
+}
+],
+"store": "PS스토어",
+"title": "MudRunner [PS4 & PS5]",
+"url": "https://store.playstation.com/ko-kr/product/EP4133-PPSA34751_00-MUDRUNNER0000000"
 },
 "ps-ep4133-ppsa34751_00-mudrunneramwlded": {
 "base": 39800,
@@ -3580,11 +3967,46 @@
 "date": "2026-11-14",
 "pct": 50,
 "price": 19900
+},
+{
+"date": "2026-11-18",
+"pct": 50,
+"price": 19900
 }
 ],
 "store": "PS스토어",
 "title": "MudRunner - American Wilds Edition [PS4 & PS5]",
 "url": "https://store.playstation.com/ko-kr/product/EP4133-PPSA34751_00-MUDRUNNERAMWLDED"
+},
+"ps-ep4389-ppsa23806_00-darksiders2ps5gp": {
+"base": 34800,
+"img": "https://image.api.playstation.com/vulcan/img/rnd/202010/1408/f27coM2aLU4zL8WhH5J0dXdR.png",
+"platform": "PS4/PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 50,
+"price": 17400
+}
+],
+"store": "PS스토어",
+"title": "Darksiders II Deathinitive Edition",
+"url": "https://store.playstation.com/ko-kr/product/EP4389-PPSA23806_00-DARKSIDERS2PS5GP"
+},
+"ps-ep4837-ppsa02962_00-drgdeluxeps5eu00": {
+"base": 45400,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2309/dA3Z2rtYzMq2IN01Hao4cwFT.png",
+"platform": "PS4/PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 70,
+"price": 13620
+}
+],
+"store": "PS스토어",
+"title": "Deep Rock Galactic - Deluxe Edition PS4 & PS5",
+"url": "https://store.playstation.com/ko-kr/product/EP4837-PPSA02962_00-DRGDELUXEPS5EU00"
 },
 "ps-ep4837-ppsa02962_00-drgfullgameps5eu": {
 "base": 34800,
@@ -3603,6 +4025,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 70,
+"price": 10440
+},
+{
+"date": "2026-11-18",
 "pct": 70,
 "price": 10440
 }
@@ -3630,11 +4057,31 @@
 "date": "2026-11-14",
 "pct": 70,
 "price": 11940
+},
+{
+"date": "2026-11-18",
+"pct": 70,
+"price": 11940
 }
 ],
 "store": "PS스토어",
 "title": "Goat Simulator 3",
 "url": "https://store.playstation.com/ko-kr/product/EP4837-PPSA04158_00-GS3MAINGAMEPACK0"
+},
+"ps-ep6311-cusa27146_00-psychonauts2siee": {
+"base": 79800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1417/ue23ohksCQgyKenxycEw1V41.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 80,
+"price": 15960
+}
+],
+"store": "PS스토어",
+"title": "Psychonauts 2",
+"url": "https://store.playstation.com/ko-kr/product/EP6311-CUSA27146_00-PSYCHONAUTS2SIEE"
 },
 "ps-ep6757-ppsa03329_00-0902745586622586": {
 "base": 49800,
@@ -3654,6 +4101,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 75,
+"price": 12450
+},
+{
+"date": "2026-11-18",
 "pct": 75,
 "price": 12450
 }
@@ -3683,12 +4135,32 @@
 "date": "2026-11-14",
 "pct": 88,
 "price": 3816
+},
+{
+"date": "2026-11-18",
+"pct": 88,
+"price": 3816
 }
 ],
 "review": "패링 손맛 호평, 초반엔 전투가 뻣뻣하다는 평",
 "store": "PS스토어",
 "title": "Tails of Iron",
 "url": "https://store.playstation.com/ko-kr/product/EP6960-PPSA03777_00-1170445898702423"
+},
+"ps-ep7579-ppsa15064_00-cq300000000ps5eu": {
+"base": 22800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3013/02b1e714b0f267f2ef62fc7f0ef934de009483f4e9335713.png",
+"platform": "PS4/PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 60,
+"price": 9120
+}
+],
+"store": "PS스토어",
+"title": "Cat Quest III",
+"url": "https://store.playstation.com/ko-kr/product/EP7579-PPSA15064_00-CQ300000000PS5EU"
 },
 "ps-ep7789-ppsa09030_00-5648706170853559": {
 "base": 22800,
@@ -3707,6 +4179,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 30,
+"price": 15960
+},
+{
+"date": "2026-11-18",
 "pct": 30,
 "price": 15960
 }
@@ -3734,11 +4211,31 @@
 "date": "2026-11-14",
 "pct": 60,
 "price": 11120
+},
+{
+"date": "2026-11-18",
+"pct": 60,
+"price": 11120
 }
 ],
 "store": "PS스토어",
 "title": "FINAL FANTASY X/X-2 HD Remaster",
 "url": "https://store.playstation.com/ko-kr/product/HP0082-CUSA01188_00-FFX0FFX20ASIAPS4"
+},
+"ps-hp0082-cusa01706_00-gameroyaledition": {
+"base": 59400,
+"img": "https://image.api.playstation.com/cdn/HP0082/CUSA01706_00/GLXrcCZYqSkVdJ8yKgsbvsqDyEd8tvfbLm3JAdoSjzD3yHuoivzqsT4uMQ9penlG.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 70,
+"price": 17820
+}
+],
+"store": "PS스토어",
+"title": "FINAL FANTASY XV ROYAL EDITION",
+"url": "https://store.playstation.com/ko-kr/product/HP0082-CUSA01706_00-GAMEROYALEDITION"
 },
 "ps-hp0082-cusa01757_00-0000sleepingdogs": {
 "base": 27800,
@@ -3760,12 +4257,47 @@
 "date": "2026-11-14",
 "pct": 70,
 "price": 8340
+},
+{
+"date": "2026-11-18",
+"pct": 70,
+"price": 8340
 }
 ],
 "review": "격투·홍콩 배경 호평, 서브 콘텐츠는 반복이라는 평",
 "store": "PS스토어",
 "title": "Sleeping Dogs™ Definitive Edition 제품판",
 "url": "https://store.playstation.com/ko-kr/product/HP0082-CUSA01757_00-0000SLEEPINGDOGS"
+},
+"ps-hp0082-cusa04005_00-builders00000000": {
+"base": 27800,
+"img": "https://image.api.playstation.com/cdn/HP0082/CUSA04005_00/VSR4RohG4IqJFwL1RBIOwUqhRwG6pItPSIK9AJMNKS18z6zlKN3O97eAqHekss0S.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 50,
+"price": 13900
+}
+],
+"store": "PS스토어",
+"title": "드래곤 퀘스트 빌더즈 아레프갈드를 부활시켜라 PS4™ 버전",
+"url": "https://store.playstation.com/ko-kr/product/HP0082-CUSA04005_00-BUILDERS00000000"
+},
+"ps-hp0082-cusa04091_00-asiaplaceholder0": {
+"base": 27500,
+"img": "https://image.api.playstation.com/cdn/HP0082/CUSA04091_00/zjc1YzrISRUZ0oytb2im5TcDfvmrPhU4hUHmrUIa6SyNju36EpnwRP4SjKtPIhkZ.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 60,
+"price": 11000
+}
+],
+"store": "PS스토어",
+"title": "WORLD OF FINAL FANTASY",
+"url": "https://store.playstation.com/ko-kr/product/HP0082-CUSA04091_00-ASIAPLACEHOLDER0"
 },
 "ps-hp0082-cusa06592_00-0000000000000000": {
 "base": 44800,
@@ -3785,6 +4317,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 60,
+"price": 17920
+},
+{
+"date": "2026-11-18",
 "pct": 60,
 "price": 17920
 }
@@ -3814,6 +4351,11 @@
 "date": "2026-11-14",
 "pct": 70,
 "price": 17940
+},
+{
+"date": "2026-11-18",
+"pct": 70,
+"price": 17940
 }
 ],
 "review": "잡 시스템·배속 호평, 옛날 느낌은 난다는 평",
@@ -3838,6 +4380,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 82,
+"price": 7164
+},
+{
+"date": "2026-11-18",
 "pct": 82,
 "price": 7164
 }
@@ -3865,6 +4412,11 @@
 "date": "2026-11-14",
 "pct": 70,
 "price": 17940
+},
+{
+"date": "2026-11-18",
+"pct": 70,
+"price": 17940
 }
 ],
 "store": "PS스토어",
@@ -3890,11 +4442,31 @@
 "date": "2026-11-14",
 "pct": 82,
 "price": 8964
+},
+{
+"date": "2026-11-18",
+"pct": 82,
+"price": 8964
 }
 ],
 "store": "PS스토어",
 "title": "FINAL FANTASY VII REMAKE INTERGRADE",
 "url": "https://store.playstation.com/ko-kr/product/HP0082-PPSA01773_00-5827003902180177"
+},
+"ps-hp0082-ppsa02827_00-7702232332695629": {
+"base": 64800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202106/0215/Pw9cWnyqkix3EoCOGqrN1cgN.png",
+"platform": "PS4/PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 85,
+"price": 9720
+}
+],
+"store": "PS스토어",
+"title": "마블의 가디언즈 오브 갤럭시 PS4 및 PS5 (Chinese/Korean Version)",
+"url": "https://store.playstation.com/ko-kr/product/HP0082-PPSA02827_00-7702232332695629"
 },
 "ps-hp0082-ppsa08670_00-0783148264580163": {
 "base": 62800,
@@ -3916,12 +4488,32 @@
 "date": "2026-11-14",
 "pct": 85,
 "price": 9420
+},
+{
+"date": "2026-11-18",
+"pct": 85,
+"price": 9420
 }
 ],
 "review": "오픈월드 분량·연출 호평, 미니게임 많다는 평",
 "store": "PS스토어",
 "title": "FINAL FANTASY VII REBIRTH (TC/SC/KR ver)",
 "url": "https://store.playstation.com/ko-kr/product/HP0082-PPSA08670_00-0783148264580163"
+},
+"ps-hp0082-ppsa10666_00-asia0000000000ce": {
+"base": 79800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202409/0604/fd3ae810ecbf18e6e8229c0802548ee583addce20fcd15ee.png",
+"platform": "PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 70,
+"price": 23940
+}
+],
+"store": "PS스토어",
+"title": "FINAL FANTASY XVI 컴플리트 에디션",
+"url": "https://store.playstation.com/ko-kr/product/HP0082-PPSA10666_00-ASIA0000000000CE"
 },
 "ps-hp0101-cusa05662_00-maingame00000000": {
 "base": 22800,
@@ -3940,6 +4532,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 40,
+"price": 13680
+},
+{
+"date": "2026-11-18",
 "pct": 40,
 "price": 13680
 }
@@ -3968,6 +4565,11 @@
 "date": "2026-11-14",
 "pct": 72,
 "price": 24556
+},
+{
+"date": "2026-11-18",
+"pct": 72,
+"price": 24556
 }
 ],
 "review": "원작 분위기 잘 살린 리메이크라는 평",
@@ -3992,6 +4594,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 60,
+"price": 7920
+},
+{
+"date": "2026-11-18",
 "pct": 60,
 "price": 7920
 }
@@ -4020,6 +4627,11 @@
 "date": "2026-11-14",
 "pct": 75,
 "price": 11200
+},
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 11200
 }
 ],
 "review": "사냥 손맛 호평, PC판 최적화 불만은 있었다는 평",
@@ -4046,11 +4658,108 @@
 "date": "2026-11-14",
 "pct": 68,
 "price": 17536
+},
+{
+"date": "2026-11-18",
+"pct": 68,
+"price": 17536
 }
 ],
 "store": "PS스토어",
 "title": "Monster Hunter World: Iceborne Master Edition Digital Deluxe",
 "url": "https://store.playstation.com/ko-kr/product/HP0102-CUSA09554_00-ICEBORNMEDX00000"
+},
+"ps-hp0177-cusa03873_00-odinspherele0000": {
+"base": 54800,
+"genre": "2D 액션 RPG",
+"img": "https://image.api.playstation.com/cdn/HP0177/CUSA03873_00/RTBOW8w6kvYwD4CdFXtUVksZx1YT3bHl7vlkqoa7SID2q2Y81wwEQCcBUTWj9PPe.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 70,
+"price": 16440
+}
+],
+"review": "그림·전투 극찬, 노가다 있다는 평",
+"store": "PS스토어",
+"title": "Odin Sphere Leifthrasir",
+"url": "https://store.playstation.com/ko-kr/product/HP0177-CUSA03873_00-ODINSPHERELE0000"
+},
+"ps-hp0177-cusa08024_00-asiaplaceholder0": {
+"base": 30700,
+"img": "https://image.api.playstation.com/cdn/HP0177/CUSA08024_00/eLLfQeJngVsx7QPd7DXURmKZoXLsoKkBeWWbzeqBtsrweaUNXIolcZ0YiCmIvwWM.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 55,
+"price": 13815
+}
+],
+"store": "PS스토어",
+"title": "페르소나 5",
+"url": "https://store.playstation.com/ko-kr/product/HP0177-CUSA08024_00-ASIAPLACEHOLDER0"
+},
+"ps-hp0177-cusa10209_00-asiaplaceholder0": {
+"base": 54800,
+"img": "https://image.api.playstation.com/cdn/HP0177/CUSA10209_00/tlaW5zeMoJ0QyBjk2ZRAfQ97raOyMZ5NVPwl3ECiLfihodDNFXVrwxrdjuMgs1x6.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 70,
+"price": 16440
+}
+],
+"store": "PS스토어",
+"title": "Dragon's Crown Pro",
+"url": "https://store.playstation.com/ko-kr/product/HP0177-CUSA10209_00-ASIAPLACEHOLDER0"
+},
+"ps-hp0177-cusa10209_00-asiaplaceholder1": {
+"base": 108000,
+"img": "https://image.api.playstation.com/cdn/HP0177/CUSA10209_00/tlaW5zeMoJ0QyBjk2ZRAfQ97raOyMZ5NVPwl3ECiLfihodDNFXVrwxrdjuMgs1x6.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 70,
+"price": 32400
+}
+],
+"store": "PS스토어",
+"title": "Dragon's Crown Pro Royal Package",
+"url": "https://store.playstation.com/ko-kr/product/HP0177-CUSA10209_00-ASIAPLACEHOLDER1"
+},
+"ps-hp0177-cusa14833_00-asiadx0000000000": {
+"base": 108000,
+"img": "https://image.api.playstation.com/cdn/HP0177/CUSA14833_00/ui2CcrEv8q4KQw6mlNVAQWtBsHgpfmhY8rPClVPltiak4sm14tFWcINly6mwAf0W.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 70,
+"price": 32400
+}
+],
+"store": "PS스토어",
+"title": "캐서린 풀 보디 PS Store 글래머러스 에디션",
+"url": "https://store.playstation.com/ko-kr/product/HP0177-CUSA14833_00-ASIADX0000000000"
+},
+"ps-hp0177-cusa14833_00-asiafullgame0000": {
+"base": 59800,
+"img": "https://image.api.playstation.com/cdn/HP0177/CUSA14833_00/6Zqv5qfS3CWAU1e3FzrkyEsQZbiWLpH0QmQST9QLHHVibpnBB9ug9Yl40v98WCFx.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 70,
+"price": 17940
+}
+],
+"store": "PS스토어",
+"title": "캐서린 풀 보디",
+"url": "https://store.playstation.com/ko-kr/product/HP0177-CUSA14833_00-ASIAFULLGAME0000"
 },
 "ps-hp0177-cusa15967_00-asiafullgame0000": {
 "base": 19800,
@@ -4071,11 +4780,76 @@
 "date": "2026-11-14",
 "pct": 30,
 "price": 13860
+},
+{
+"date": "2026-11-18",
+"pct": 30,
+"price": 13860
 }
 ],
 "store": "PS스토어",
 "title": "저지 아이즈: 사신의 유언 신 가격판",
 "url": "https://store.playstation.com/ko-kr/product/HP0177-CUSA15967_00-ASIAFULLGAME0000"
+},
+"ps-hp0177-cusa33852_00-daylight00000000": {
+"base": 19800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2407/6JBobKQ37Hr3M3yPsR70U78m.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 40,
+"price": 11880
+}
+],
+"store": "PS스토어",
+"title": "페르소나4 더 골든",
+"url": "https://store.playstation.com/ko-kr/product/HP0177-CUSA33852_00-DAYLIGHT00000000"
+},
+"ps-hp0177-cusa33852_00-daylightmidnight": {
+"base": 38800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202301/1602/3lGncpumii1t85dNOawsqYbF.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 50,
+"price": 19400
+}
+],
+"store": "PS스토어",
+"title": "페르소나3 포터블 & 페르소나4 더 골든 번들",
+"url": "https://store.playstation.com/ko-kr/product/HP0177-CUSA33852_00-DAYLIGHTMIDNIGHT"
+},
+"ps-hp0177-ppsa05739_00-p5rgame000000000": {
+"base": 69800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0202/uOO25ke0773iniinnXAnl7Os.png",
+"platform": "PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 70,
+"price": 20940
+}
+],
+"store": "PS스토어",
+"title": "페르소나5 더 로열",
+"url": "https://store.playstation.com/ko-kr/product/HP0177-PPSA05739_00-P5RGAME000000000"
+},
+"ps-hp0367-cusa12546_00-asiafullgame0000": {
+"base": 44800,
+"img": "https://image.api.playstation.com/cdn/HP0367/CUSA12546_00/wRRxvzKHTcjyxWYVUHUOHVDHCvwTJDvk.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 11200
+}
+],
+"store": "PS스토어",
+"title": "지구방위군 5",
+"url": "https://store.playstation.com/ko-kr/product/HP0367-CUSA12546_00-ASIAFULLGAME0000"
 },
 "ps-hp0576-cusa05306_00-asiaplaceholder0": {
 "base": 23500,
@@ -4094,6 +4868,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 85,
+"price": 3525
+},
+{
+"date": "2026-11-18",
 "pct": 85,
 "price": 3525
 }
@@ -4121,6 +4900,11 @@
 "date": "2026-11-14",
 "pct": 50,
 "price": 16400
+},
+{
+"date": "2026-11-18",
+"pct": 50,
+"price": 16400
 }
 ],
 "store": "PS스토어",
@@ -4144,6 +4928,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 87,
+"price": 5174
+},
+{
+"date": "2026-11-18",
 "pct": 87,
 "price": 5174
 }
@@ -4171,6 +4960,11 @@
 "date": "2026-11-14",
 "pct": 80,
 "price": 10960
+},
+{
+"date": "2026-11-18",
+"pct": 80,
+"price": 10960
 }
 ],
 "store": "PS스토어",
@@ -4194,6 +4988,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 75,
+"price": 4950
+},
+{
+"date": "2026-11-18",
 "pct": 75,
 "price": 4950
 }
@@ -4221,6 +5020,11 @@
 "date": "2026-11-14",
 "pct": 90,
 "price": 6480
+},
+{
+"date": "2026-11-18",
+"pct": 90,
+"price": 6480
 }
 ],
 "store": "PS스토어",
@@ -4244,6 +5048,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 80,
+"price": 6560
+},
+{
+"date": "2026-11-18",
 "pct": 80,
 "price": 6560
 }
@@ -4272,6 +5081,11 @@
 "date": "2026-11-14",
 "pct": 90,
 "price": 8280
+},
+{
+"date": "2026-11-18",
+"pct": 90,
+"price": 8280
 }
 ],
 "review": "캐릭터·스토리 호평, 적 종류가 적다는 평",
@@ -4296,6 +5110,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 71,
+"price": 26042
+},
+{
+"date": "2026-11-18",
 "pct": 71,
 "price": 26042
 }
@@ -4323,6 +5142,11 @@
 "date": "2026-11-14",
 "pct": 84,
 "price": 4768
+},
+{
+"date": "2026-11-18",
+"pct": 84,
+"price": 4768
 }
 ],
 "store": "PS스토어",
@@ -4346,6 +5170,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 80,
+"price": 9960
+},
+{
+"date": "2026-11-18",
 "pct": 80,
 "price": 9960
 }
@@ -4383,6 +5212,11 @@
 "date": "2026-11-11",
 "pct": 50,
 "price": 19200
+},
+{
+"date": "2026-11-18",
+"pct": 50,
+"price": 19200
 }
 ],
 "store": "PS스토어",
@@ -4407,6 +5241,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 80,
+"price": 8900
+},
+{
+"date": "2026-11-18",
 "pct": 80,
 "price": 8900
 }
@@ -4435,6 +5274,11 @@
 "date": "2026-11-14",
 "pct": 80,
 "price": 11960
+},
+{
+"date": "2026-11-18",
+"pct": 80,
+"price": 11960
 }
 ],
 "store": "PS스토어",
@@ -4458,6 +5302,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 20,
+"price": 8640
+},
+{
+"date": "2026-11-18",
 "pct": 20,
 "price": 8640
 }
@@ -4485,6 +5334,11 @@
 "date": "2026-11-14",
 "pct": 20,
 "price": 8640
+},
+{
+"date": "2026-11-18",
+"pct": 20,
+"price": 8640
 }
 ],
 "store": "PS스토어",
@@ -4510,11 +5364,78 @@
 "date": "2026-11-14",
 "pct": 67,
 "price": 10824
+},
+{
+"date": "2026-11-18",
+"pct": 67,
+"price": 10824
 }
 ],
 "store": "PS스토어",
 "title": "DOOM Eternal Standard Edition",
 "url": "https://store.playstation.com/ko-kr/product/HP1003-PPSA02222_00-DOOMETERNALBUNDL"
+},
+"ps-hp1003-ppsa09020_00-fallout4fullgame": {
+"base": 22000,
+"img": "https://image.api.playstation.com/cdn/UP1003/CUSA02557_00/j4PdxSxO3optsrP1SxnAqdq6qCmYPd9x.png",
+"platform": "PS4/PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 5500
+}
+],
+"store": "PS스토어",
+"title": "Fallout 4",
+"url": "https://store.playstation.com/ko-kr/product/HP1003-PPSA09020_00-FALLOUT4FULLGAME"
+},
+"ps-hp1018-ppsa01866_00-legoswtss0000000": {
+"base": 71300,
+"genre": "레고 액션 어드벤처",
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png",
+"platform": "PS4/PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 90,
+"price": 7130
+}
+],
+"review": "원작 고증·캐릭터 수 호평, 반복적이라는 평",
+"store": "PS스토어",
+"title": "LEGO® Star Wars™: 스카이워커 사가 PS4 & PS5",
+"url": "https://store.playstation.com/ko-kr/product/HP1018-PPSA01866_00-LEGOSWTSS0000000"
+},
+"ps-hp1018-ppsa01866_00-legoswtssge00000": {
+"base": 104300,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1320/nsr5lNmBzoKtqx8SkzagdRKF.png",
+"platform": "PS4/PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 90,
+"price": 10430
+}
+],
+"store": "PS스토어",
+"title": "LEGO® Star Wars™: 스카이워커 사가 은하계 에디션",
+"url": "https://store.playstation.com/ko-kr/product/HP1018-PPSA01866_00-LEGOSWTSSGE00000"
+},
+"ps-hp2104-ppsa01540_00-bsnax16543620005": {
+"base": 27800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1917/5ePCp1x8olocgSVS6I1jNLYS.png",
+"platform": "PS4/PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 50,
+"price": 13900
+}
+],
+"store": "PS스토어",
+"title": "Bugsnax",
+"url": "https://store.playstation.com/ko-kr/product/HP2104-PPSA01540_00-BSNAX16543620005"
 },
 "ps-hp2418-ppsa02103_00-straysieasia0000": {
 "base": 34800,
@@ -4534,6 +5455,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 50,
+"price": 17400
+},
+{
+"date": "2026-11-18",
 "pct": 50,
 "price": 17400
 }
@@ -4562,6 +5488,11 @@
 "date": "2026-11-14",
 "pct": 60,
 "price": 11120
+},
+{
+"date": "2026-11-18",
+"pct": 60,
+"price": 11120
 }
 ],
 "store": "PS스토어",
@@ -4585,6 +5516,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 75,
+"price": 7450
+},
+{
+"date": "2026-11-18",
 "pct": 75,
 "price": 7450
 }
@@ -4612,11 +5548,31 @@
 "date": "2026-11-14",
 "pct": 60,
 "price": 11920
+},
+{
+"date": "2026-11-18",
+"pct": 60,
+"price": 11920
 }
 ],
 "store": "PS스토어",
 "title": "돌연변이 닌자 거북이: 슈레더의 복수 (Teenage Mutant Ninja Turtles: Shredder's Revenge)",
 "url": "https://store.playstation.com/ko-kr/product/HP5035-PPSA07273_00-TMNTSRH2INTSIEJA"
+},
+"ps-hp8445-ppsa22521_00-0957225256300890": {
+"base": 27800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2820/Y8w6KlhWQKXFPgTuHcR40RPy.png",
+"platform": "PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 30,
+"price": 19460
+}
+],
+"store": "PS스토어",
+"title": "ANIMAL WELL",
+"url": "https://store.playstation.com/ko-kr/product/HP8445-PPSA22521_00-0957225256300890"
 },
 "ps-hp9000-cusa00559_00-thelastofus00000": {
 "base": 22800,
@@ -4635,6 +5591,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 50,
+"price": 11400
+},
+{
+"date": "2026-11-18",
 "pct": 50,
 "price": 11400
 }
@@ -4662,6 +5623,11 @@
 "date": "2026-11-14",
 "pct": 50,
 "price": 11400
+},
+{
+"date": "2026-11-18",
+"pct": 50,
+"price": 11400
 }
 ],
 "store": "PS스토어",
@@ -4685,6 +5651,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 60,
+"price": 11120
+},
+{
+"date": "2026-11-18",
 "pct": 60,
 "price": 11120
 }
@@ -4712,11 +5683,46 @@
 "date": "2026-11-14",
 "pct": 50,
 "price": 11400
+},
+{
+"date": "2026-11-18",
+"pct": 50,
+"price": 11400
 }
 ],
 "store": "PS스토어",
 "title": "God of War",
 "url": "https://store.playstation.com/ko-kr/product/HP9000-CUSA07413_00-00000000GODOFWAR"
+},
+"ps-jp0082-cusa01330_00-asiafinalfantasy": {
+"base": 18800,
+"img": "https://image.api.playstation.com/cdn/JP0082/CUSA01330_00/lFTsze9FPs1qjtMDTqPsjgXlsIRu2XFBbeet9pWbR2JfQxg8guNviGSt6qgAEiRB.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 60,
+"price": 7520
+}
+],
+"store": "PS스토어",
+"title": "FINAL FANTASY VII",
+"url": "https://store.playstation.com/ko-kr/product/JP0082-CUSA01330_00-ASIAFINALFANTASY"
+},
+"ps-jp0082-cusa06818_00-asia000000000000": {
+"base": 25900,
+"img": "https://image.api.playstation.com/vulcan/img/cfn/11307COOIfkGLlSBWZSRmmIXe6LcbKqOnzqZVpxawJYsQSgYU6J8IIhnmd0YbAFxPATvw_FbOD7v9JMQAjCKgRkuE68txxbl.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 60,
+"price": 10360
+}
+],
+"store": "PS스토어",
+"title": "FINAL FANTASY VIII Remastered",
+"url": "https://store.playstation.com/ko-kr/product/JP0082-CUSA06818_00-ASIA000000000000"
 },
 "ps-jp0082-cusa16924_00-tomps4appjpn0001": {
 "base": 59800,
@@ -4735,6 +5741,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 70,
+"price": 17940
+},
+{
+"date": "2026-11-18",
 "pct": 70,
 "price": 17940
 }
@@ -4762,11 +5773,46 @@
 "date": "2026-11-14",
 "pct": 72,
 "price": 26124
+},
+{
+"date": "2026-11-18",
+"pct": 72,
+"price": 26124
 }
 ],
 "store": "PS스토어",
 "title": "SILENT HILL f",
 "url": "https://store.playstation.com/ko-kr/product/JP0101-PPSA21159_00-MAINGAME00000000"
+},
+"ps-jp0106-cusa00254_00-asiaxlgamejp0000": {
+"base": 33600,
+"img": "https://image.api.playstation.com/cdn/JP0106/CUSA00254_00/RuDyfuDXUJysenMbAmbDNPtHFdTKZiIU.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 50,
+"price": 16800
+}
+],
+"store": "PS스토어",
+"title": "진・삼국무쌍 7 with 맹장전 제품판",
+"url": "https://store.playstation.com/ko-kr/product/JP0106-CUSA00254_00-ASIAXLGAMEJP0000"
+},
+"ps-jp0106-cusa01207_00-asia000000000000": {
+"base": 49800,
+"img": "https://image.api.playstation.com/cdn/JP0106/CUSA01207_00/R4Gmlsai6VHIkHgC68BdUYNzhNUV1o1mcAgI6m6gGOKa09KUPBXifXBUrc3hKrN8.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 12450
+}
+],
+"store": "PS스토어",
+"title": "DEAD OR ALIVE 5 Last Round 제품판",
+"url": "https://store.playstation.com/ko-kr/product/JP0106-CUSA01207_00-ASIA000000000000"
 },
 "ps-jp0177-ppsa01852_00-judgeeyes0000000": {
 "base": 19800,
@@ -4785,6 +5831,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 30,
+"price": 13860
+},
+{
+"date": "2026-11-18",
 "pct": 30,
 "price": 13860
 }
@@ -4812,11 +5863,31 @@
 "date": "2026-11-14",
 "pct": 20,
 "price": 15840
+},
+{
+"date": "2026-11-18",
+"pct": 20,
+"price": 15840
 }
 ],
 "store": "PS스토어",
 "title": "용과 같이7 빛과 어둠의 행방　International",
 "url": "https://store.playstation.com/ko-kr/product/JP0177-PPSA02690_00-LIKEADRAGON00000"
+},
+"ps-jp0177-ppsa02690_00-yladh00000000000": {
+"base": 22800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202012/2503/ESRUNB5eogyBsArMGVkPYqqI.png",
+"platform": "PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 20,
+"price": 18240
+}
+],
+"store": "PS스토어",
+"title": "용과 같이7 빛과 어둠의 행방　International Hero Edition",
+"url": "https://store.playstation.com/ko-kr/product/JP0177-PPSA02690_00-YLADH00000000000"
 },
 "ps-jp0177-ppsa06433_00-likeadragon8000a": {
 "base": 79800,
@@ -4835,6 +5906,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 75,
+"price": 19950
+},
+{
+"date": "2026-11-18",
 "pct": 75,
 "price": 19950
 }
@@ -4862,6 +5938,11 @@
 "date": "2026-11-14",
 "pct": 75,
 "price": 14950
+},
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 14950
 }
 ],
 "store": "PS스토어",
@@ -4885,6 +5966,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 40,
+"price": 19200
+},
+{
+"date": "2026-11-18",
 "pct": 40,
 "price": 19200
 }
@@ -4912,6 +5998,11 @@
 "date": "2026-11-14",
 "pct": 40,
 "price": 13680
+},
+{
+"date": "2026-11-18",
+"pct": 40,
+"price": 13680
 }
 ],
 "store": "PS스토어",
@@ -4935,6 +6026,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 75,
+"price": 4000
+},
+{
+"date": "2026-11-18",
 "pct": 75,
 "price": 4000
 }
@@ -4962,11 +6058,76 @@
 "date": "2026-11-14",
 "pct": 84,
 "price": 10368
+},
+{
+"date": "2026-11-18",
+"pct": 84,
+"price": 10368
 }
 ],
 "store": "PS스토어",
 "title": "Ni no Kuni™ II: Revenant Kingdom (일어판)",
 "url": "https://store.playstation.com/ko-kr/product/JP0720-CUSA08583_00-ASIANNK2GAME0000"
+},
+"ps-jp4443-ppsa25414_00-0905368681809535": {
+"base": 39800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1611/b3c75af796ea9931524b4c5f9500e801bb49be5664d52c17.png",
+"platform": "PS4/PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 50,
+"price": 19900
+}
+],
+"store": "PS스토어",
+"title": "나인 솔즈 PS4 & PS5",
+"url": "https://store.playstation.com/ko-kr/product/JP4443-PPSA25414_00-0905368681809535"
+},
+"ps-jp4875-ppsa17759_00-0498248698981905": {
+"base": 34800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0318/92f975f1e62581b4b193d6aea8fd9145efb9623a04513604.png",
+"platform": "PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 66,
+"price": 11832
+}
+],
+"store": "PS스토어",
+"title": "Blasphemous 2",
+"url": "https://store.playstation.com/ko-kr/product/JP4875-PPSA17759_00-0498248698981905"
+},
+"ps-up0002-cusa03005_00-asiacodbo3game02": {
+"base": 75000,
+"img": "https://image.api.playstation.com/cdn/UP0002/CUSA03005_00/Fdpwywo18BCRI2DqQpRxbYIpxyHFlPaSgvDKK0DodxkQsVMkGWmQ0g8OIPxaLdx5.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 18750
+}
+],
+"store": "PS스토어",
+"title": "Call of Duty®: Black Ops III - Zombies Chronicles Edition",
+"url": "https://store.playstation.com/ko-kr/product/UP0002-CUSA03005_00-ASIACODBO3GAME02"
+},
+"ps-up0006-cusa00110_00-asiabattlefield4": {
+"base": 23000,
+"img": "https://image.api.playstation.com/cdn/UP0006/CUSA00110_00/Z8LbhU901unhD5eAvEPLKEa2UeNMJTYj8Ux3tjHhY6ywnTd01omcSgplsKnO7La9.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 5750
+}
+],
+"store": "PS스토어",
+"title": "배틀필드 4 제품판",
+"url": "https://store.playstation.com/ko-kr/product/UP0006-CUSA00110_00-ASIABATTLEFIELD4"
 },
 "ps-up0006-cusa00220_00-asia000000000007": {
 "base": 47000,
@@ -4987,11 +6148,157 @@
 "date": "2026-11-14",
 "pct": 60,
 "price": 18800
+},
+{
+"date": "2026-11-18",
+"pct": 60,
+"price": 18800
 }
 ],
 "store": "PS스토어",
 "title": "드래곤 에이지: 인퀴지션 - 올해의 게임 에디션",
 "url": "https://store.playstation.com/ko-kr/product/UP0006-CUSA00220_00-ASIA000000000007"
+},
+"ps-up0006-cusa01975_00-asiaplaceholder2": {
+"base": 22200,
+"img": "https://image.api.playstation.com/cdn/UP0006/CUSA01975_00/lFAxjFoF6GPWlY2cnDP71VQ309CRCvInD8x8IGcfMJBuVMy8NyzwuKdXgWGPDrsH.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 70,
+"price": 6660
+}
+],
+"store": "PS스토어",
+"title": "Plants vs. Zombies™ Garden Warfare 2",
+"url": "https://store.playstation.com/ko-kr/product/UP0006-CUSA01975_00-ASIAPLACEHOLDER2"
+},
+"ps-up0006-cusa02429_00-asiaplaceholder0": {
+"base": 23500,
+"img": "https://image.api.playstation.com/cdn/UP0006/CUSA02429_00/iqjLo98NUUPwImtH9PPgX4paN0lmfGKrN1rt30j3ga5ODNw4qITo25gD6sbDQs3u.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 5875
+}
+],
+"store": "PS스토어",
+"title": "Battlefield™ 1",
+"url": "https://store.playstation.com/ko-kr/product/UP0006-CUSA02429_00-ASIAPLACEHOLDER0"
+},
+"ps-up0006-cusa02685_00-asia000000000000": {
+"base": 23000,
+"img": "https://image.api.playstation.com/cdn/UP0006/CUSA02685_00/leLcrnR7rdsn4yWDu8fY6jK6Gxu796Rd8JL7txk1GyLz18uOSdbauPl5Sm2kBtuM.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 5750
+}
+],
+"store": "PS스토어",
+"title": "Unravel",
+"url": "https://store.playstation.com/ko-kr/product/UP0006-CUSA02685_00-ASIA000000000000"
+},
+"ps-up0006-cusa04027_00-asia000000000058": {
+"base": 34000,
+"img": "https://image.api.playstation.com/cdn/UP0006/CUSA04027_00/FdF3KYaO25xICLolMJygw8Nw8GwEsAR4138Gh0i0OISCWkeFjpykgTVdZvL3b0Yh.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 80,
+"price": 6800
+}
+],
+"store": "PS스토어",
+"title": "Titanfall™ 2: 얼티메이트 에디션",
+"url": "https://store.playstation.com/ko-kr/product/UP0006-CUSA04027_00-ASIA000000000058"
+},
+"ps-up0006-cusa05770_00-asia000000000025": {
+"base": 47000,
+"img": "https://image.api.playstation.com/vulcan/img/cfn/113071uB5HGxw09-b8T2-FxjUdAt50dUTnzwF59IxWnCcX6Y5KqE7H9EAwKmQxEyGaV0NGZ0pdqfOikZb8cSW-pc7-grlvKq.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 11750
+}
+],
+"store": "PS스토어",
+"title": "STAR WARS™ Battlefront™ II: Celebration 에디션",
+"url": "https://store.playstation.com/ko-kr/product/UP0006-CUSA05770_00-ASIA000000000025"
+},
+"ps-up0006-cusa10866_00-asiaplaceholder0": {
+"base": 23500,
+"img": "https://image.api.playstation.com/cdn/UP0006/CUSA10866_00/pQrkRekomtnAAuiF9Wnmp9qFcNQY5eqGYpFZxWnoqdS2saANlsY1IgrmxvhGbULN.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 5875
+}
+],
+"store": "PS스토어",
+"title": "Burnout™ Paradise Remastered",
+"url": "https://store.playstation.com/ko-kr/product/UP0006-CUSA10866_00-ASIAPLACEHOLDER0"
+},
+"ps-up0006-ppsa02198_00-respawnswbirddog": {
+"base": 59000,
+"genre": "액션 어드벤처",
+"img": "https://image.api.playstation.com/vulcan/img/rnd/202105/1714/WHeOu95nW2SZQy6H5IKgE2Bg.png",
+"platform": "PS4/PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 80,
+"price": 11800
+}
+],
+"review": "전투·스타워즈 분위기 호평, 지도가 헷갈린다는 평",
+"store": "PS스토어",
+"title": "스타워즈 제다이: 오더의 몰락™",
+"url": "https://store.playstation.com/ko-kr/product/UP0006-PPSA02198_00-RESPAWNSWBIRDDOG"
+},
+"ps-up0006-ppsa02342_00-ittakestworetail": {
+"base": 47000,
+"genre": "2인 협동 어드벤처",
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202012/0815/7CRynuLSAb0vysSC4TmZy5e4.png",
+"platform": "PS4/PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 80,
+"price": 9400
+}
+],
+"review": "협동 게임 최고라는 평, 실력 차에 따라 난이도 갈린다는 평",
+"store": "PS스토어",
+"title": "It Takes Two PS4™와 PS5™",
+"url": "https://store.playstation.com/ko-kr/product/UP0006-PPSA02342_00-ITTAKESTWORETAIL"
+},
+"ps-up0006-ppsa03845_00-beyondps5game000": {
+"base": 83000,
+"genre": "SF 서바이벌 호러",
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1918/MP0I6Folca9wOgs9A39wwvj1.png",
+"platform": "PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 90,
+"price": 8300
+}
+],
+"review": "원작 살린 리메이크로 호평",
+"store": "PS스토어",
+"title": "Dead Space",
+"url": "https://store.playstation.com/ko-kr/product/UP0006-PPSA03845_00-BEYONDPS5GAME000"
 },
 "ps-up0082-cusa08283_00-asiaplaceholder0": {
 "base": 31800,
@@ -5010,6 +6317,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 70,
+"price": 9540
+},
+{
+"date": "2026-11-18",
 "pct": 70,
 "price": 9540
 }
@@ -5037,6 +6349,11 @@
 "date": "2026-11-14",
 "pct": 60,
 "price": 19920
+},
+{
+"date": "2026-11-18",
+"pct": 60,
+"price": 19920
 }
 ],
 "store": "PS스토어",
@@ -5060,6 +6377,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 60,
+"price": 19920
+},
+{
+"date": "2026-11-18",
 "pct": 60,
 "price": 19920
 }
@@ -5087,6 +6409,11 @@
 "date": "2026-11-14",
 "pct": 60,
 "price": 11120
+},
+{
+"date": "2026-11-18",
+"pct": 60,
+"price": 11120
 }
 ],
 "store": "PS스토어",
@@ -5112,11 +6439,140 @@
 "date": "2026-11-14",
 "pct": 70,
 "price": 9450
+},
+{
+"date": "2026-11-18",
+"pct": 70,
+"price": 9450
 }
 ],
 "store": "PS스토어",
 "title": "Rez Infinite",
 "url": "https://store.playstation.com/ko-kr/product/UP0751-CUSA05868_00-ASIAREZINFINITE0"
+},
+"ps-up0977-ppsa08511_00-3064604549696432": {
+"base": 39800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202205/0315/GoFmMMR4hakwjwMZx2kmw9r9.png",
+"platform": "PS4/PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 67,
+"price": 13134
+}
+],
+"store": "PS스토어",
+"title": "Endling - Extinction is Forever",
+"url": "https://store.playstation.com/ko-kr/product/UP0977-PPSA08511_00-3064604549696432"
+},
+"ps-up1001-cusa10455_00-asia000000000000": {
+"base": 31700,
+"img": "https://image.api.playstation.com/cdn/UP1001/CUSA10455_00/C8RiKmdwdag1IOnfzUQd1mz2dBjVefGBN2pgihyeT8Fq0Qro6VWZTluKv1NTvE9W.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 80,
+"price": 6340
+}
+],
+"store": "PS스토어",
+"title": "보더랜드：올해의 게임 에디션",
+"url": "https://store.playstation.com/ko-kr/product/UP1001-CUSA10455_00-ASIA000000000000"
+},
+"ps-up1001-ppsa01462_00-0000000oakngsiea": {
+"base": 65000,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2323/p50N4PBK9rNanGYKFecTvac5.png",
+"platform": "PS4/PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 90,
+"price": 6500
+}
+],
+"store": "PS스토어",
+"title": "보더랜드 3 PS4™ &  PS5™",
+"url": "https://store.playstation.com/ko-kr/product/UP1001-PPSA01462_00-0000000OAKNGSIEA"
+},
+"ps-up1001-ppsa01462_00-000000oaksieasdd": {
+"base": 88900,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2322/4hbCDBET2tJsBEszKxO8o33c.png",
+"platform": "PS4/PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 85,
+"price": 13335
+}
+],
+"store": "PS스토어",
+"title": "보더랜드 3: 슈퍼 디럭스 에디션 PS4™ &  PS5™",
+"url": "https://store.playstation.com/ko-kr/product/UP1001-PPSA01462_00-000000OAKSIEASDD"
+},
+"ps-up1001-ppsa36393_00-mafia1deps500000": {
+"base": 45000,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1023/35jaBRLW6kV4wfF3bi0nxRIH.png",
+"platform": "PS4/PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 85,
+"price": 6750
+}
+],
+"store": "PS스토어",
+"title": "마피아: 데피니티브 에디션 (PS5®)",
+"url": "https://store.playstation.com/ko-kr/product/UP1001-PPSA36393_00-MAFIA1DEPS500000"
+},
+"ps-up1003-cusa00314_00-wolfenstein00001": {
+"base": 22000,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3004/ZKYzTfaw4UrsLLt6VjYGwh5r.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 5500
+}
+],
+"store": "PS스토어",
+"title": "Wolfenstein: The New Order",
+"url": "https://store.playstation.com/ko-kr/product/UP1003-CUSA00314_00-WOLFENSTEIN00001"
+},
+"ps-up1004-cusa03041_00-redemptionfull02": {
+"base": 70500,
+"genre": "오픈월드 서부 액션",
+"img": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 17625
+}
+],
+"review": "스토리·디테일 극찬, 초반이 느리다는 평",
+"store": "PS스토어",
+"title": "Red Dead Redemption 2",
+"url": "https://store.playstation.com/ko-kr/product/UP1004-CUSA03041_00-REDEMPTIONFULL02"
+},
+"ps-up1018-cusa00078_00-platinumedition1": {
+"base": 54800,
+"genre": "파쿠르 좀비 액션",
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2310/8892b3ed5b317177580ceded686e1b75e99072af61a93c1b.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 80,
+"price": 10960
+}
+],
+"review": "파쿠르·전투 호평, 후반엔 쉬워진다는 평",
+"store": "PS스토어",
+"title": "Dying Light Definitive Edition",
+"url": "https://store.playstation.com/ko-kr/product/UP1018-CUSA00078_00-PLATINUMEDITION1"
 },
 "ps-up1018-cusa00103_00-asia000000000000": {
 "base": 22800,
@@ -5135,6 +6591,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 75,
+"price": 5700
+},
+{
+"date": "2026-11-18",
 "pct": 75,
 "price": 5700
 }
@@ -5162,11 +6623,33 @@
 "date": "2026-11-14",
 "pct": 75,
 "price": 5975
+},
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 5975
 }
 ],
 "store": "PS스토어",
 "title": "배트맨™: 아캄 나이트",
 "url": "https://store.playstation.com/ko-kr/product/UP1018-CUSA00133_00-ASIA000000000000"
+},
+"ps-up1018-cusa00133_00-asia000000000064": {
+"base": 61900,
+"genre": "액션 어드벤처",
+"img": "https://image.api.playstation.com/cdn/UP1018/CUSA00133_00/0DreCtmQdhkRSXAgVuVjluZmnqd2u0XprY6iOEpVve9bu6JDsOwAJ4hu7iv1pKRM.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 90,
+"price": 6190
+}
+],
+"review": "처음 해 보기 좋은 묶음이라는 평, PS4에선 시티가 버벅인다는 평",
+"store": "PS스토어",
+"title": "Batman: Arkham 컬렉션",
+"url": "https://store.playstation.com/ko-kr/product/UP1018-CUSA00133_00-ASIA000000000064"
 },
 "ps-up1018-cusa00348_00-asialegohobbit00": {
 "base": 29500,
@@ -5185,6 +6668,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 75,
+"price": 7375
+},
+{
+"date": "2026-11-18",
 "pct": 75,
 "price": 7375
 }
@@ -5212,11 +6700,91 @@
 "date": "2026-11-14",
 "pct": 75,
 "price": 7200
+},
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 7200
 }
 ],
 "store": "PS스토어",
 "title": "레고® 배트맨™ 3: 비욘드 고담 제품판 - PlayStation®Hits",
 "url": "https://store.playstation.com/ko-kr/product/UP1018-CUSA00580_00-ASIA000000000000"
+},
+"ps-up1018-cusa01513_00-asia000000000000": {
+"base": 52000,
+"img": "https://image.api.playstation.com/cdn/UP1018/CUSA01513_00/QSZPEq6fO4Tz8AoHxj2JKJClGHON30w0WnW4sCwUvptiS3Kv1w5m4wNBz2Fc0SmE.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 13000
+}
+],
+"store": "PS스토어",
+"title": "LEGO® Jurassic World™",
+"url": "https://store.playstation.com/ko-kr/product/UP1018-CUSA01513_00-ASIA000000000000"
+},
+"ps-up1018-cusa04408_00-asiaplaceholder0": {
+"base": 54900,
+"img": "https://image.api.playstation.com/vulcan/img/cfn/11307eV2B9Fr5TlCKetT3JZK13XaS8ZIFXv6BoIEZhmLcufsLnoLSRv7MCv-3XgrDLIkCUpOY5ZhL8B6DxgYyeQW7U4Lb1nX.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 90,
+"price": 5490
+}
+],
+"store": "PS스토어",
+"title": "미들 어스™: 섀도우 오브 워™",
+"url": "https://store.playstation.com/ko-kr/product/UP1018-CUSA04408_00-ASIAPLACEHOLDER0"
+},
+"ps-up1018-cusa04601_00-asia000000000000": {
+"base": 22500,
+"img": "https://image.api.playstation.com/cdn/UP1018/CUSA04601_00/iVtMZtgPYLNnd62j187j5ycHz65yHI9dQYtRhISEAOZoaMjbDZt4hxkYcDHnUTzg.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 5625
+}
+],
+"store": "PS스토어",
+"title": "배트맨: 리턴 투 아캄",
+"url": "https://store.playstation.com/ko-kr/product/UP1018-CUSA04601_00-ASIA000000000000"
+},
+"ps-up1018-cusa05462_00-asia000000000000": {
+"base": 22800,
+"img": "https://image.api.playstation.com/vulcan/img/cfn/11307yTtQHHs5rGByVI5LQJK9AvsV7Q577v082BvkKfSmBsU7lzxIutUgVvcL3eofKipLaEvL_QzCJrkhL-TREkeZScQmBUo.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 5700
+}
+],
+"store": "PS스토어",
+"title": "Injustice™ 2 - PlayStation®Hits",
+"url": "https://store.playstation.com/ko-kr/product/UP1018-CUSA05462_00-ASIA000000000000"
+},
+"ps-up1018-cusa05954_00-asia000000000000": {
+"base": 29500,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202410/0720/be98546dca7a757572df9d246669670e38132ba9c4c1dfc3.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 7375
+}
+],
+"store": "PS스토어",
+"title": "레고® 해리포터™ 컬렉션",
+"url": "https://store.playstation.com/ko-kr/product/UP1018-CUSA05954_00-ASIA000000000000"
 },
 "ps-up1018-cusa06549_00-asia000000000000": {
 "base": 59800,
@@ -5237,11 +6805,31 @@
 "date": "2026-11-14",
 "pct": 83,
 "price": 10166
+},
+{
+"date": "2026-11-18",
+"pct": 83,
+"price": 10166
 }
 ],
 "store": "PS스토어",
 "title": "레고® 시티 언더커버",
 "url": "https://store.playstation.com/ko-kr/product/UP1018-CUSA06549_00-ASIA000000000000"
+},
+"ps-up1018-cusa12824_00-hogwartslegacy01": {
+"base": 86700,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0921/dR9KJAKDW2izPbptHQbh3rnj.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 90,
+"price": 8670
+}
+],
+"store": "PS스토어",
+"title": "호그와트 레거시 PS4 버전",
+"url": "https://store.playstation.com/ko-kr/product/UP1018-CUSA12824_00-HOGWARTSLEGACY01"
 },
 "ps-up1260-ppsa09425_00-0863551605945340": {
 "base": 37800,
@@ -5260,6 +6848,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 60,
+"price": 15120
+},
+{
+"date": "2026-11-18",
 "pct": 60,
 "price": 15120
 }
@@ -5287,6 +6880,11 @@
 "date": "2026-11-14",
 "pct": 80,
 "price": 7960
+},
+{
+"date": "2026-11-18",
+"pct": 80,
+"price": 7960
 }
 ],
 "store": "PS스토어",
@@ -5312,11 +6910,153 @@
 "date": "2026-11-14",
 "pct": 55,
 "price": 7200
+},
+{
+"date": "2026-11-18",
+"pct": 55,
+"price": 7200
 }
 ],
 "store": "PS스토어",
 "title": "Ultimate Chicken Horse",
 "url": "https://store.playstation.com/ko-kr/product/UP1665-CUSA08580_00-ASIA000000000000"
+},
+"ps-up2005-cusa03443_00-asia000000000000": {
+"base": 18900,
+"img": "https://image.api.playstation.com/cdn/UP2005/CUSA03443_00/YDFhLzsgO47TY16dDxFjAKfUFZAhXjVjeNfYaX7ptlbB5r0426JZmHVduAN4Vjzy.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 70,
+"price": 5670
+}
+],
+"store": "PS스토어",
+"title": "Rainbow Moon",
+"url": "https://store.playstation.com/ko-kr/product/UP2005-CUSA03443_00-ASIA000000000000"
+},
+"ps-up2047-ppsa02395_00-metroexodus0gen9": {
+"base": 34800,
+"genre": "FPS 서바이벌",
+"img": "https://image.api.playstation.com/vulcan/img/rnd/202010/2814/jhNIE3yH1SNEe9CmxTVHAdme.png",
+"platform": "PS4/PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 90,
+"price": 3480
+}
+],
+"review": "분위기·세계관 호평",
+"store": "PS스토어",
+"title": "Metro Exodus",
+"url": "https://store.playstation.com/ko-kr/product/UP2047-PPSA02395_00-METROEXODUS0GEN9"
+},
+"ps-up2054-cusa01664_00-3438673406581463": {
+"base": 34800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202011/3008/WfGeHsHCYoPqM5Ux9HFrT1AR.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 90,
+"price": 3480
+}
+],
+"store": "PS스토어",
+"title": "LIMBO & INSIDE Bundle",
+"url": "https://store.playstation.com/ko-kr/product/UP2054-CUSA01664_00-3438673406581463"
+},
+"ps-up2054-cusa01664_00-playdeadd11limbo": {
+"base": 16800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2413/29295ec287b2eb88c02d42dcae013b232eb6360df5c92975.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 90,
+"price": 1680
+}
+],
+"store": "PS스토어",
+"title": "LIMBO",
+"url": "https://store.playstation.com/ko-kr/product/UP2054-CUSA01664_00-PLAYDEADD11LIMBO"
+},
+"ps-up2054-cusa05297_00-inside0000000000": {
+"base": 27800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1811/5f8cc20df3484fd4a566e04ea649e4e3f935bf9357003105.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 90,
+"price": 2780
+}
+],
+"store": "PS스토어",
+"title": "INSIDE",
+"url": "https://store.playstation.com/ko-kr/product/UP2054-CUSA05297_00-INSIDE0000000000"
+},
+"ps-up2070-cusa00240_00-asia0000fullgame": {
+"base": 9400,
+"img": "https://image.api.playstation.com/cdn/UP2070/CUSA00240_00/iahLNGIXtgnBprLIYlKZNzQVOnDAqwrZ.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 60,
+"price": 3760
+}
+],
+"store": "PS스토어",
+"title": "Pure Chess® 제품판",
+"url": "https://store.playstation.com/ko-kr/product/UP2070-CUSA00240_00-ASIA0000FULLGAME"
+},
+"ps-up2070-cusa00328_00-asiafullgame0000": {
+"base": 10200,
+"img": "https://image.api.playstation.com/cdn/UP2070/CUSA00328_00/gcutMmTXYWGNLCvvrWohWOiAbSGcorWN.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 50,
+"price": 5100
+}
+],
+"store": "PS스토어",
+"title": "Pure Pool 제품판",
+"url": "https://store.playstation.com/ko-kr/product/UP2070-CUSA00328_00-ASIAFULLGAME0000"
+},
+"ps-up2104-cusa00196_00-asiaoctodaddadli": {
+"base": 16900,
+"img": "https://image.api.playstation.com/cdn/UP2104/CUSA00196_00/eQMjKnRRBtGnLDkkzYvHxQfcYBRDSWcS.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 50,
+"price": 8450
+}
+],
+"store": "PS스토어",
+"title": "Octodad: Dadliest Catch 제품판",
+"url": "https://store.playstation.com/ko-kr/product/UP2104-CUSA00196_00-ASIAOCTODADDADLI"
+},
+"ps-up2113-cusa00325_00-asiaoutlastfulga": {
+"base": 23300,
+"img": "https://image.api.playstation.com/cdn/UP2113/CUSA00325_00/ZPdwpkuOrExYTAMhXmGYbUVcTMKXfAlz.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 5825
+}
+],
+"store": "PS스토어",
+"title": "Outlast 제품판",
+"url": "https://store.playstation.com/ko-kr/product/UP2113-CUSA00325_00-ASIAOUTLASTFULGA"
 },
 "ps-up2293-cusa11587_00-slimerancher0001": {
 "base": 22800,
@@ -5335,6 +7075,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 75,
+"price": 5700
+},
+{
+"date": "2026-11-18",
 "pct": 75,
 "price": 5700
 }
@@ -5362,6 +7107,11 @@
 "date": "2026-11-14",
 "pct": 75,
 "price": 5700
+},
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 5700
 }
 ],
 "store": "PS스토어",
@@ -5385,6 +7135,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 40,
+"price": 16680
+},
+{
+"date": "2026-11-18",
 "pct": 40,
 "price": 16680
 }
@@ -5412,11 +7167,61 @@
 "date": "2026-11-14",
 "pct": 25,
 "price": 17100
+},
+{
+"date": "2026-11-18",
+"pct": 25,
+"price": 17100
 }
 ],
 "store": "PS스토어",
 "title": "Mixtape",
 "url": "https://store.playstation.com/ko-kr/product/UP2470-PPSA29453_00-MIXTAPE000000000"
+},
+"ps-up3126-ppsa06084_00-2911532214834517": {
+"base": 22800,
+"img": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA19488_00/5/i_fafb8161b93465477b543f2d96835aec423853d5c49d2d2893811396519852aa/i/icon0.png",
+"platform": "PS4/PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 60,
+"price": 9120
+}
+],
+"store": "PS스토어",
+"title": "Superliminal",
+"url": "https://store.playstation.com/ko-kr/product/UP3126-PPSA06084_00-2911532214834517"
+},
+"ps-up3385-ppsa08499_00-rainworldnaps500": {
+"base": 27800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202212/3015/8uhUduWChINJs5O8hEyfUPPL.png",
+"platform": "PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 65,
+"price": 9730
+}
+],
+"store": "PS스토어",
+"title": "Rain World",
+"url": "https://store.playstation.com/ko-kr/product/UP3385-PPSA08499_00-RAINWORLDNAPS500"
+},
+"ps-up3501-cusa08661_00-huntingstarterbu": {
+"base": 44800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2910/241341d525e8eb853b12cfb43add4f364bcf3be589e4f4af.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 65,
+"price": 15680
+}
+],
+"store": "PS스토어",
+"title": "theHunter: Call of the Wild™ – 사냥 스타터 번들",
+"url": "https://store.playstation.com/ko-kr/product/UP3501-CUSA08661_00-HUNTINGSTARTERBU"
 },
 "ps-up3501-cusa08661_00-thcotwbase000000": {
 "base": 34800,
@@ -5435,6 +7240,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 85,
+"price": 5220
+},
+{
+"date": "2026-11-18",
 "pct": 85,
 "price": 5220
 }
@@ -5460,6 +7270,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 20,
+"price": 13440
+},
+{
+"date": "2026-11-18",
 "pct": 20,
 "price": 13440
 }
@@ -5488,6 +7303,11 @@
 "date": "2026-11-14",
 "pct": 80,
 "price": 3960
+},
+{
+"date": "2026-11-18",
+"pct": 80,
+"price": 3960
 }
 ],
 "review": "음악·속도감 호평, 어렵다는 평 많음",
@@ -5512,6 +7332,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 80,
+"price": 3960
+},
+{
+"date": "2026-11-18",
 "pct": 80,
 "price": 3960
 }
@@ -5539,6 +7364,11 @@
 "date": "2026-11-14",
 "pct": 55,
 "price": 15660
+},
+{
+"date": "2026-11-18",
+"pct": 55,
+"price": 15660
 }
 ],
 "store": "PS스토어",
@@ -5564,11 +7394,46 @@
 "date": "2026-11-14",
 "pct": 67,
 "price": 13134
+},
+{
+"date": "2026-11-18",
+"pct": 67,
+"price": 13134
 }
 ],
 "store": "PS스토어",
 "title": "GRIS + Neva Bundle",
 "url": "https://store.playstation.com/ko-kr/product/UP3643-PPSA09803_00-0069912658469958"
+},
+"ps-up3643-ppsa15319_00-0262243401895881": {
+"base": 39800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202506/2623/69017b4d0023ad5c7ff148a9e9c459ffb06d5985f1b4d3eb.png",
+"platform": "PS4/PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 9950
+}
+],
+"store": "PS스토어",
+"title": "The Plucky Squire x The Swords of Ditto: Mormo's Curse Bundle",
+"url": "https://store.playstation.com/ko-kr/product/UP3643-PPSA15319_00-0262243401895881"
+},
+"ps-up3643-ppsa16785_00-0524521320023310": {
+"base": 25800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2622/fccefbd2e111473a6398f16b5c68cad89ed09dcab9e83207.png",
+"platform": "PS4/PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 50,
+"price": 12900
+}
+],
+"store": "PS스토어",
+"title": "Neva",
+"url": "https://store.playstation.com/ko-kr/product/UP3643-PPSA16785_00-0524521320023310"
 },
 "ps-up3643-ppsa31872_00-0512776704708419": {
 "base": 19800,
@@ -5587,6 +7452,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 50,
+"price": 9900
+},
+{
+"date": "2026-11-18",
 "pct": 50,
 "price": 9900
 }
@@ -5614,6 +7484,11 @@
 "date": "2026-11-14",
 "pct": 50,
 "price": 18900
+},
+{
+"date": "2026-11-18",
+"pct": 50,
+"price": 18900
 }
 ],
 "store": "PS스토어",
@@ -5637,6 +7512,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 30,
+"price": 15960
+},
+{
+"date": "2026-11-18",
 "pct": 30,
 "price": 15960
 }
@@ -5664,6 +7544,11 @@
 "date": "2026-11-14",
 "pct": 60,
 "price": 9120
+},
+{
+"date": "2026-11-18",
+"pct": 60,
+"price": 9120
 }
 ],
 "store": "PS스토어",
@@ -5687,6 +7572,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 60,
+"price": 9120
+},
+{
+"date": "2026-11-18",
 "pct": 60,
 "price": 9120
 }
@@ -5714,11 +7604,31 @@
 "date": "2026-11-14",
 "pct": 50,
 "price": 11400
+},
+{
+"date": "2026-11-18",
+"pct": 50,
+"price": 11400
 }
 ],
 "store": "PS스토어",
 "title": "Thank Goodness You're Here!",
 "url": "https://store.playstation.com/ko-kr/product/UP3971-PPSA15433_00-0210876635651678"
+},
+"ps-up4108-cusa00397_00-asia00000000game": {
+"base": 33600,
+"img": "https://image.api.playstation.com/cdn/UP4108/CUSA00397_00/CtYKdExNmcqwDiFUrCHsFGxXVHPlftym.png",
+"platform": "PS4",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 50,
+"price": 16800
+}
+],
+"store": "PS스토어",
+"title": "진 삼국무쌍 7 with 맹장전",
+"url": "https://store.playstation.com/ko-kr/product/UP4108-CUSA00397_00-ASIA00000000GAME"
 },
 "ps-up4364-ppsa01746_00-kenaamst00000005": {
 "base": 49800,
@@ -5737,6 +7647,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 60,
+"price": 19920
+},
+{
+"date": "2026-11-18",
 "pct": 60,
 "price": 19920
 }
@@ -5764,11 +7679,31 @@
 "date": "2026-11-14",
 "pct": 60,
 "price": 17920
+},
+{
+"date": "2026-11-18",
+"pct": 60,
+"price": 17920
 }
 ],
 "store": "PS스토어",
 "title": "Grounded PS4® & PS5®",
 "url": "https://store.playstation.com/ko-kr/product/UP6312-PPSA15547_00-OGUNQUIT00000000"
+},
+"ps-up6312-ppsa17525_00-0219247498273183": {
+"base": 44800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2818/6222f35e03490b9ab85092005f6c4843af9f18fba47bdab9.png",
+"platform": "PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 75,
+"price": 11200
+}
+],
+"store": "PS스토어",
+"title": "Gears of War: Reloaded",
+"url": "https://store.playstation.com/ko-kr/product/UP6312-PPSA17525_00-0219247498273183"
 },
 "ps-up6360-ppsa23126_00-0112788005082769": {
 "base": 27800,
@@ -5787,6 +7722,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 30,
+"price": 19460
+},
+{
+"date": "2026-11-18",
 "pct": 30,
 "price": 19460
 }
@@ -5812,6 +7752,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 70,
+"price": 11940
+},
+{
+"date": "2026-11-18",
 "pct": 70,
 "price": 11940
 }
@@ -5842,6 +7787,11 @@
 "prices": [
 {
 "date": "2026-11-14",
+"pct": 40,
+"price": 6480
+},
+{
+"date": "2026-11-18",
 "pct": 40,
 "price": 6480
 }
@@ -5894,6 +7844,11 @@
 "date": "2026-11-11",
 "pct": 80,
 "price": 1160
+},
+{
+"date": "2026-11-18",
+"pct": 80,
+"price": 1160
 }
 ],
 "store": "PS스토어",
@@ -5934,6 +7889,11 @@
 "date": "2026-11-11",
 "pct": 40,
 "price": 10080
+},
+{
+"date": "2026-11-18",
+"pct": 40,
+"price": 10080
 }
 ],
 "store": "PS스토어",
@@ -5959,6 +7919,11 @@
 "date": "2026-11-14",
 "pct": 40,
 "price": 13680
+},
+{
+"date": "2026-11-18",
+"pct": 40,
+"price": 13680
 }
 ],
 "store": "PS스토어",
@@ -5979,11 +7944,31 @@
 "date": "2026-11-11",
 "pct": 15,
 "price": 19380
+},
+{
+"date": "2026-11-18",
+"pct": 15,
+"price": 19380
 }
 ],
 "store": "PS스토어",
 "title": "파피 플레이타임: 챕터 5",
 "url": "https://store.playstation.com/ko-kr/product/UP8103-PPSA36543_00-POPPYCHAPTERFIVE"
+},
+"ps-up8236-ppsa19115_00-0015587721224151": {
+"base": 22800,
+"img": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2508/f194dc023adef481689d90db93f343b73f5b4c5741925556.png",
+"platform": "PS4/PS5",
+"prices": [
+{
+"date": "2026-11-18",
+"pct": 45,
+"price": 12540
+}
+],
+"store": "PS스토어",
+"title": "데이브 더 다이버",
+"url": "https://store.playstation.com/ko-kr/product/UP8236-PPSA19115_00-0015587721224151"
 },
 "ps-up8236-ppsa19115_00-0298593598299103": {
 "base": 27000,
@@ -6002,6 +7987,11 @@
 },
 {
 "date": "2026-11-14",
+"pct": 50,
+"price": 13500
+},
+{
+"date": "2026-11-18",
 "pct": 50,
 "price": 13500
 }
